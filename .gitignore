@@ -1,0 +1,8 @@
+node_modules/
+.dev.vars
+.env
+.wrangler/
+
+# Private B2 account credentials
+b2_accounts.json
+b2_accounts.txt
